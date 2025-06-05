@@ -2,7 +2,7 @@
 // JUNE 2025 NICK MARSTOL
 // for use at the palace
 //takes artnet uni 5 addy 512 and will blackout or enable the novastar 1000 screen controller
-
+//credit due to library maintainers etc...
 
 #include "defines.h"
 
