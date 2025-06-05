@@ -3,6 +3,7 @@
 // for use at the palace
 //takes artnet uni 5 addy 512 and will blackout or enable the novastar 1000 screen controller
 //credit due to library maintainers etc...
+//especially Khoi Hoang https://github.com/khoih-prog/Ethernet_Generic
 
 #include "defines.h"
 
